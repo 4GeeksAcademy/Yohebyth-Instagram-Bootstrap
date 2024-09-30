@@ -26,6 +26,11 @@ div.rowGrid img {
     --bs-card-spacer-y: 0;
 }
 
+.card img{
+    width: 100%;
+    height: auto;
+}
+
 .text-body-secondary{
     color: #000!important;
 }
